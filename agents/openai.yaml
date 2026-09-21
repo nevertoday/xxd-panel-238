@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 238"
+  short_description: "哥特绘本微物：上半保留原照，下半收成空白里一个微小的水粉绘本形象"
+  default_prompt: "Use $xxd-panel-238 to transform my photograph following the complete canonical source brief."
