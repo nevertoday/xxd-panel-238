@@ -60,7 +60,7 @@ Opaque gouache with thin watercolour: dry brush, pencil, uneven black and hesita
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-238 --skill xxd-panel-238
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-238 --skill xxd-panel-238
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-238`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
