@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 238｜Gothic Picture-Book Miniature: reimagines a photo's subject as one tiny, quiet, slightly naive gothic picture-book figure — super-simplified proportions, a big-headed figure with a minimal, restrained face, or a building, animal or object turned into a small symbolic thing with the same mood — painted in opaque gouache and thin watercolour with dry-brush grain, pencil marks, uneven black paint and hesitant edges, in charcoal black, ivory and soft grey with only a tiny warm peach or apricot touch, small and isolated in almost empty paper with at most one faint ground shadow, plus one word or very short phrase in a thin, hesitant old-book typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-238 or asks for gothic picture-book, melancholic gouache miniature or dark-but-gentle naive illustration from a photo.",
+  "short_description": "哥特绘本微物：把照片收成一个微小、脆弱、略带黑暗的水粉绘本形象，四周几乎全空",
+  "zh-CN": {
+    "name": "哥特绘本微物",
+    "tagline": "把照片收成一个微小、脆弱、略带黑暗的水粉绘本形象，四周几乎全是空白。",
+    "look": "照片里最有象征性的特征被留下，重新想象成一个微小、安静、略带稚拙的哥特绘本形象：人物比例超简化、头身略夸张，表情极简克制；建筑、动物、器物则变成带同样情绪的小小象征物。用不透明水粉加薄水彩来画，留着干刷颗粒、铅笔痕迹、不均匀的黑色和迟疑的边缘。颜色以炭黑、象牙白、柔灰为主，只有极小一处暖桃或浅杏，像微弱的生命迹象。主体小而孤立，四周几乎全空，最多一处极淡的落地影，留白里放一个词或一句极短的话，字体纤细、带旧书排印感。",
+    "traits": ["哥特绘本", "微小孤立", "水粉水彩", "炭黑象牙白", "暖色点", "大量空白"],
+    "good": [
+      "有一点孤独或安静情绪的照片：雨中撑伞的人、独坐的孩子、窗边的猫",
+      "强烈或宏大、想收得含蓄的画面：一座古堡、一场大火后的树、一只乌鸦",
+      "想做文学插画、绘本封面或安静忧郁的展览小品的照片"
+    ],
+    "poor": [
+      "明亮欢快、颜色丰富的照片：生日派对、彩色游乐场，结果会变成炭黑主调",
+      "需要多人关系或完整场景叙事的照片，这里只留一个小形象",
+      "想要光滑精致的 CG、电影级光影或商业卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Gothic Picture-Book Miniature",
+    "tagline": "Turns a photo into one tiny, fragile, slightly dark gouache picture-book figure on almost empty paper.",
+    "look": "The most symbolic features of your photo are kept and reimagined as one tiny, quiet, slightly naive gothic picture-book figure: a person gets super-simplified proportions, a slightly large head and a minimal, restrained face, while a building, animal or object becomes a small symbolic thing carrying the same mood. It is painted in opaque gouache with thin watercolour, keeping dry-brush grain, pencil marks, uneven black paint and hesitant edges. The palette is charcoal black, ivory and soft grey, with only one tiny touch of warm peach or apricot like a faint sign of life. The subject is small and alone on almost empty paper, with at most one very faint shadow beneath it, and a single word or very short phrase in a thin typeface with an old-book feel.",
+    "traits": ["Gothic picture book", "Tiny and isolated", "Gouache and watercolour", "Charcoal and ivory", "A warm dot", "Vast empty space"],
+    "good": [
+      "Photos with a lonely or quiet mood: someone under an umbrella in the rain, a child sitting alone, a cat at a window",
+      "Strong or grand images you want to turn understated: a castle, a tree after a fire, a crow",
+      "Photos you want as a literary illustration, a picture-book cover or a quiet, melancholy exhibition piece"
+    ],
+    "poor": [
+      "Bright, cheerful, colourful photos such as birthday parties or playgrounds, which turn charcoal-dominated",
+      "Photos that need several people or a full scene to tell the story, since only one small figure remains",
+      "Requests for glossy, polished CG, cinematic lighting or commercial cartoons"
+    ]
+  },
+  "ja": {
+    "name": "ゴシック絵本の小さな姿",
+    "tagline": "写真を、ほとんど空白の紙に置いた、小さく脆く少し暗いガッシュの絵本の姿にします。",
+    "look": "写真でいちばん象徴的な特徴を残し、小さく静かで少し素朴なゴシック絵本の姿に描き直します。人物は比率を極端に簡略化し、頭を少し大きく、表情はごく控えめに。建物、動物、道具は同じ気分をまとった小さな象徴物になります。不透明なガッシュと薄い水彩で描き、ドライブラシの粒子、鉛筆の跡、むらのある黒、ためらうような縁を残します。色は炭のような黒、象牙色、柔らかな灰が中心で、暖かいピーチや淡いアプリコットがごく小さく一か所、かすかな命のしるしのように入ります。主役は小さく孤立し、まわりはほとんど空白で、あってもごく淡い接地の影が一つだけ。余白には一語かごく短い一句が、細く古書の活字のような書体で置かれます。",
+    "traits": ["ゴシック絵本", "小さく孤立", "ガッシュと水彩", "炭黒と象牙色", "暖色のひと粒", "広い空白"],
+    "good": [
+      "孤独や静けさが感じられる写真：雨の中で傘をさす人、ひとり座る子ども、窓辺の猫",
+      "強く壮大で、控えめに収めたい場面：古城、火事のあとの木、カラス",
+      "文学の挿絵、絵本の表紙、静かで物憂げな展示作品にしたい写真"
+    ],
+    "poor": [
+      "明るく楽しい色とりどりの写真：誕生日パーティー、カラフルな遊園地（炭黒が主調になります）",
+      "複数の人の関係や場面全体で語りたい写真（小さな姿が一つ残るだけです）",
+      "つややかで精巧なCG、映画的な光、商業アニメのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "고딕 그림책 소품",
+    "tagline": "사진을 거의 빈 종이 위의 작고 연약하며 조금 어두운 과슈 그림책 형상으로 담습니다.",
+    "look": "사진에서 가장 상징적인 특징을 남겨 작고 조용하며 조금 서툰 고딕 그림책 형상으로 다시 상상합니다. 사람은 비례를 아주 단순하게, 머리를 조금 크게, 표정은 극도로 절제하고, 건물, 동물, 사물은 같은 감정을 지닌 작은 상징물이 됩니다. 불투명 과슈와 옅은 수채로 그려 마른 붓 입자, 연필 자국, 고르지 않은 검정, 머뭇거리는 가장자리를 남깁니다. 색은 숯빛 검정, 상아색, 부드러운 회색이 중심이고, 따뜻한 복숭아색이나 연한 살구색이 아주 작게 한 곳, 희미한 생명의 흔적처럼 들어갑니다. 주인공은 작고 외따로 놓이며 주변은 거의 비어 있고, 있다면 아주 옅은 바닥 그림자 하나뿐입니다. 여백에는 한 단어나 아주 짧은 한 구절이 가늘고 옛 책 활자 같은 서체로 들어갑니다.",
+    "traits": ["고딕 그림책", "작고 외로운", "과슈와 수채", "숯검정과 상아색", "따뜻한 점 하나", "넓은 빈 공간"],
+    "good": [
+      "외롭거나 조용한 감정이 있는 사진: 빗속에 우산 쓴 사람, 홀로 앉은 아이, 창가의 고양이",
+      "강렬하거나 웅장해서 담담하게 거두고 싶은 장면: 고성, 불탄 뒤의 나무, 까마귀",
+      "문학 삽화, 그림책 표지, 조용하고 쓸쓸한 전시 소품으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "밝고 즐겁고 알록달록한 사진: 생일 파티, 화려한 놀이터(숯검정이 주조가 됩니다)",
+      "여러 사람의 관계나 장면 전체로 이야기해야 하는 사진(작은 형상 하나만 남습니다)",
+      "매끈하고 정교한 CG, 영화 같은 조명, 상업 만화 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "منمنمة من كتاب مصوّر قوطي",
+    "tagline": "يحوّل الصورة إلى هيئة صغيرة هشة داكنة قليلاً من كتاب مصوّر بالغواش، على ورق شبه فارغ.",
+    "look": "تُستبقى أكثر سمات صورتك رمزية، ويُعاد تخيلها هيئةً صغيرة هادئة فيها شيء من السذاجة من كتاب مصوّر قوطي: للشخص نِسب مبسّطة جداً ورأس أكبر قليلاً ووجه مقتضب التعبير، أما المبنى أو الحيوان أو الأداة فيصير شيئاً رمزياً صغيراً يحمل المزاج نفسه. تُرسم بالغواش المعتم مع طبقات رقيقة من الألوان المائية، مع حبيبات الفرشاة الجافة وآثار قلم الرصاص وسواد غير متساوٍ وحواف مترددة. الألوان أسود فحمي وعاجي ورمادي ناعم، مع لمسة صغيرة جداً واحدة من الخوخي الدافئ أو المشمشي الفاتح كعلامة حياة خافتة. العنصر صغير وحيد على ورق شبه فارغ، تحته على الأكثر ظل باهت جداً، وفي الفراغ كلمة واحدة أو عبارة قصيرة جداً بخط رفيع له روح طباعة الكتب القديمة.",
+    "traits": ["كتاب مصوّر قوطي", "صغير ومنعزل", "غواش وألوان مائية", "أسود فحمي وعاجي", "نقطة دافئة", "فراغ واسع"],
+    "good": [
+      "صور فيها مزاج الوحدة أو السكون: شخص تحت مظلة في المطر، طفل جالس وحده، قطة عند النافذة",
+      "صور قوية أو مهيبة تريد اختزالها بهدوء: قلعة، شجرة بعد حريق، غراب",
+      "صور تريدها رسماً أدبياً أو غلاف كتاب مصوّر أو عملاً هادئاً حزيناً لمعرض"
+    ],
+    "poor": [
+      "صور مشرقة مبهجة كثيرة الألوان كحفلات الميلاد وساحات اللعب، إذ يغلب عليها الأسود الفحمي",
+      "صور تحتاج إلى عدة أشخاص أو مشهد كامل لرواية الحكاية، فلا يبقى إلا هيئة صغيرة واحدة",
+      "طلب رسوم حاسوبية لامعة مصقولة أو إضاءة سينمائية أو كرتون تجاري"
+    ]
+  }
+}

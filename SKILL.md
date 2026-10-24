@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-238
-description: "Create XXD Panel 238 raster artwork: a faithful photograph paired with a tiny gothic picture-book figure in naïve watercolour and gouache, charcoal and ivory with one small warm accent, isolated in vast quiet paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-238 or asks for this 哥特绘本微物 style."
+description: "XXD Panel 238｜Gothic Picture-Book Miniature: reimagines a photo's subject as one tiny, quiet, slightly naive gothic picture-book figure — super-simplified proportions, a big-headed figure with a minimal, restrained face, or a building, animal or object turned into a small symbolic thing with the same mood — painted in opaque gouache and thin watercolour with dry-brush grain, pencil marks, uneven black paint and hesitant edges, in charcoal black, ivory and soft grey with only a tiny warm peach or apricot touch, small and isolated in almost empty paper with at most one faint ground shadow, plus one word or very short phrase in a thin, hesitant old-book typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-238 or asks for gothic picture-book, melancholic gouache miniature or dark-but-gentle naive illustration from a photo."
 ---
 
 # XXD Panel 238
